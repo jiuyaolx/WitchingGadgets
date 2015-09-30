@@ -82,15 +82,15 @@ item.WG_Kama.raven.name=黑鸦短袍
 item.WG_Kama.spectral.name=幽灵短袍
 item.WG_Kama.wolf.name=野狼短袍
 
-item.WG_EliteArmorHelm.ANGELIC_0.name=Ophanic Helm
-item.WG_EliteArmorChest.ANGELIC_1.name=Seraph's Cuirass
-item.WG_EliteArmorLegs.ANGELIC_2.name=Cherub Greaves
-item.WG_EliteArmorBoots.ANGELIC_3.name=Sabatons of the Valkyrie
+item.WG_EliteArmorHelm.ANGELIC_0.name=座天使头盔
+item.WG_EliteArmorChest.ANGELIC_1.name=炽天使胸甲
+item.WG_EliteArmorLegs.ANGELIC_2.name=天使护腿
+item.WG_EliteArmorBoots.ANGELIC_3.name=女武神护腿
 
-item.WG_EliteArmorHelm.DEMONIC_0.name=Helm of Leviathan
-item.WG_EliteArmorChest.DEMONIC_1.name=Asrael's Cuirass
-item.WG_EliteArmorLegs.DEMONIC_2.name=Lycan's Greaves
-item.WG_EliteArmorBoots.DEMONIC_3.name=Claws of the Behemoth
+item.WG_EliteArmorHelm.DEMONIC_0.name=利维坦头盔
+item.WG_EliteArmorChest.DEMONIC_1.name=死神胸甲
+item.WG_EliteArmorLegs.DEMONIC_2.name=狼人护腿
+item.WG_EliteArmorBoots.DEMONIC_3.name=巨大之物的爪子
 
 item.WG_InfusedGem.name=蕴魔宝石
 item.WG_InfusedGem.innert.name=惰性宝石
@@ -106,7 +106,7 @@ item.WG_PrimordialLegs.name=元始护腿
 item.WG_PrimordialBoots.name=元始靴子
 
 item.WG_Baubles.ring_primordial.name=元始指环
-item.WG_Baubles.ring_lifeProtection.name=Ring of Life Protection
+item.WG_Baubles.ring_lifeProtection.name=生命守护指环
 item.WG_Baubles.shouldersDoublejump.name=炽天使肩铠
 item.WG_Baubles.shouldersKnockback.name=磐石肩铠
 item.WG_Baubles.vambraceStrength.name=狂战士护腕
@@ -213,33 +213,33 @@ wg.potionCinderCoat=易燃
 tc.research_category.WITCHGADG=巫师宝具
 #
 witchinggadgets_research_name.VORPALBLADE=Vorpal Blade
-witchinggadgets_research_text.VORPALBLADE=SNICKER-SNACK!
-witchinggadgets_research_page.VORPALBLADE.1=§oOne, two! One, two! and through and through<BR>The vorpal blade went snicker-snack!<BR>He left it dead, and with its head<BR>He went galumphing back§r<LINE>A sword of legend. So powerful that it will cleanly cut through any material known to men and is likely to fatally strike and behead most any foe.
+witchinggadgets_research_text.VORPALBLADE=咔嚓！
+witchinggadgets_research_page.VORPALBLADE.1=§o一，二！一、二！！然后……<BR>嗜血的刀刃！<BR>他杀死了它，带回它的头，<BR>他得意洋洋地回来了§R＜WG>传说中的剑，如此强大，它将切断通过人类已知的任何材料并且可能致命的打击和斩首最任何敌人。
 #
 witchinggadgets_research_name.WALLMIRROR=Mirror on the Wall
-witchinggadgets_research_text.WALLMIRROR=[WG] The most magical of all!
+witchinggadgets_research_text.WALLMIRROR=[WG] 最神奇的一切！
 witchinggadgets_research_page.WALLMIRROR.1=Further delving into the magic of the mirrors has lead you to the discovery of a safe haven within the void between worlds.<BR>While this location is brimming with magic, otherwise it appears to be void of anything. It has no visible layer of flooring, yet somehow you can stand there.<BR>This space seems to be an excellent way of traveling. Since it is vast and empty as well, it should be easy to store any of your belongings in this void-between-worlds
 witchinggadgets_research_page.WALLMIRROR.2=§lAccess:§r<BR>Place the mirror wherever you like. When you'd like to open the portal, simply right-click it. The dimension accessed through it is the same from any mirror, but portals out of it are only created where it is entered. This means that you can only leave where another Mirror has been placed in the Overworld.<BR><BR>§lNavigation:§r<BR>An invisible floor will spawn in a 5x5 below you wherever you walk. These blocks can be replaced with normal blocks by right-clicking them, allowing you to build there. Jump to ascend, the floor will follow you. Holding the sneak key will make you descend.
 #
 #WGPOTIONS
 witchinggadgets_research_name.WGPOTIONS=状态效果
-witchinggadgets_research_text.WGPOTIONS=[WG] Milk is not always an option! 
+witchinggadgets_research_text.WGPOTIONS=[WG] 牛奶并不是一个选择！
 witchinggadgets_research_page.WGPOTIONS.1=随着研究的深入,你的可能会发现一些状态效果.已知的如下:<BR><IMG>witchinggadgets:textures/gui/potioneffects.png:18:198:18:18:1</IMG>§n抗击:§r  赋予你抵挡击退效果的能力,每级抵挡几率增加33%.<IMG>witchinggadgets:textures/gui/potioneffects.png:36:198:18:18:1</IMG>§n消融:§r  类似于浸泡在'死亡之水'中,随着时间持续受到伤害.如果死于该状态,则会掉落晶化源质.
 witchinggadgets_research_page.WGPOTIONS.2=<IMG>witchinggadgets:textures/gui/potioneffects.png:54:198:18:18:1</IMG>§n易燃:§r  该效果会增强火焰的威力.所有受到的火焰伤害都会基于该状态的级别造成多倍的伤害.
 
 
 
 witchinggadgets_research_name.ETHEREALWALL=虚无砖块
-witchinggadgets_research_text.ETHEREALWALL=[WG] Hidden in plain sight
+witchinggadgets_research_text.ETHEREALWALL=[WG] 隐藏在众目睽睽下
 witchinggadgets_research_page.ETHEREALWALL.1=对奥术石块的附魔稍加改动就有了一个有趣的发现.只要给这种新石块提供红石信号,就会让它§o无形化§r,让你能直接穿墙而过.<BR>这也会影响到与它相连的其他虚无砖块.
 witchinggadgets_research_page.ETHEREALWALL.2=其次,你能将它伪装成大部分常见的方块.只手持方块右击,它就会被替换成那个方块的材质.空手潜行右击则会移除伪装.(它只能接受普通渲染的方块.原版的透明度有效,但神秘时代的琥珀无效,因为后者是彩色透明的,方向型贴图如原木和石英柱并不能完全支持.)
 #
 witchinggadgets_research_name.STONEEXTRUDER=神秘造石机
-witchinggadgets_research_text.STONEEXTRUDER=[WG] One can never have enough stone
+witchinggadgets_research_text.STONEEXTRUDER=[WG] 一个从来没有足够的石头机器
 witchinggadgets_research_page.STONEEXTRUDER.1=即便是神秘学的麻瓜也知道流动的岩浆被水冷却时会凝固成圆石.而精于魔法的家伙们可不想将时间浪费在挖石头上,因此他们想出了自动化的方法.<BR>这台机器会在内部生成圆石,破坏它并将其抛在一边或输入到相连的容器中.当容器已满或有红石信号时则会停止运行.你也可以用法杖来旋转它.
 #
 witchinggadgets_research_name.AGEINGSTONE=生长之石
-witchinggadgets_research_text.AGEINGSTONE=[WG] Time flies when you're having fun!
+witchinggadgets_research_text.AGEINGSTONE=[WG] 当你玩的开心时，当心光阴似箭！
 witchinggadgets_research_page.AGEINGSTONE.1=每一个年轻的神秘使都想要快点长大!但那也会让你错失许多宝贵的经验和阅历.因此你将影响时间的魔法用在了另一种奥术石块上.<BR>生长之石会加速大部分常见生物的成长,让幼年阶段的羊,牛和猪在其魔法能量的影响下长得更快.<BR>加速生长效果的作用范围是它周边7x7x5的区域,石块越多效果也会越强.
 #
 witchinggadgets_research_name.THAUMICAPPLICATOR=
@@ -247,7 +247,7 @@ witchinggadgets_research_text.THAUMICAPPLICATOR=[WG]
 witchinggadgets_research_page.THAUMICAPPLICATOR.1=
 #
 witchinggadgets_research_name.SPINNINGWHEEL=纺织工艺
-witchinggadgets_research_text.SPINNINGWHEEL=[WG] Don't prick yourself
+witchinggadgets_research_text.SPINNINGWHEEL=[WG] 纺纱
 witchinggadgets_research_page.SPINNINGWHEEL.1=有不少巫师会忽视纺织的重要性,但那也只是因为他们低估了它的实力.魔法制品中不乏纺织产物,比如每个神秘使的法袍.一些巫师将会证明在法袍上印刻符文与纺织有着极为相似之处,两者都需要谨慎对待所用的原料,不管是纯生的要素还是纤细的丝线.
 witchinggadgets_research_page.SPINNINGWHEEL.2=对每个初入纺织的实践者而言,都要先做出自己的§l纺车§r.你可以用它来纺出各种纱线,普通的,精致的或是赋予魔法的.然后再将它们织成布匹,做成各种装备或魔法制品-
 witchinggadgets_research_page.SPINNINGWHEEL.r1=<IMG>witchinggadgets:textures/gui/research/spinningRecipes1.png:0:0:255:255:0.5</IMG>§l纱线§r
@@ -297,7 +297,7 @@ witchinggadgets_research_name.CLOAK_STORAGE=奇术斗篷
 witchinggadgets_research_text.CLOAK_STORAGE=[WG] I lost my keys in here...
 witchinggadgets_research_page.CLOAK_STORAGE.1=将奇术口袋和炫酷的斗篷相结合,你就有了更多的储存空间!斗篷也有了50%的额外容量.
 #
-witchinggadgets_research_name.CLOAK_RAVEN=Mantle of the Raven
+witchinggadgets_research_name.CLOAK_RAVEN=黑鸦斗篷
 witchinggadgets_research_text.CLOAK_RAVEN=[WG] CA-CAW!
 witchinggadgets_research_page.CLOAK_RAVEN.1=On your travels throughout the Twilight Forest, you have come across the most fascinating Forest Raven. This remarkable bird displays high agility and maneuverability in the air, a feat to be envious of.<BR>Instead of being envious you could also just adorne your cloak with their feathers and imbue it with magical power...<BR>While wearing this cloak, your speed while flying increases noticeably. And should you not be flying, the cloak will allow you to glide instead. Gliding can be disabled in the ActiveAbility menu.
 # OLD witchinggadgets_research_page.CLOAK_RAVEN.1=On your travels throughout the Twilight Forest, you have come across the most fascinating Forest Raven. This remarkable bird appears to always find back to his nesting place, even within the dense and dark forest it calls home.<BR>Plucking a feather from it, you have discovered that it, albeit in small scale, inherits this ability. Now you just have to amplify this ability with your thaumic capabilities and infuse your garment with it. The result is the §lMantle of the Raven§r which allows you to set and return to your nesting place at the cost of a raven's feather. You may substitute three chicken feathers.
@@ -471,17 +471,17 @@ witchinggadgets_research_page.GEMCUTTING.7.noMirrors=§e§lAer:§r§0风之力�
 
 
 #
-witchinggadgets_research_name.GEMCUT_TABLE=Table Cut
-witchinggadgets_research_text.GEMCUT_TABLE=[WG] Bling
+witchinggadgets_research_name.GEMCUT_TABLE=表面琢型
+witchinggadgets_research_text.GEMCUT_TABLE=[WG] 金光闪闪
 witchinggadgets_research_page.GEMCUT_TABLE.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:80:0:80:80:1</IMG>The table cut is
-witchinggadgets_research_name.GEMCUT_STEP=Step Cut
-witchinggadgets_research_text.GEMCUT_STEP=[WG] Shwing
+witchinggadgets_research_name.GEMCUT_STEP=阶梯琢型
+witchinggadgets_research_text.GEMCUT_STEP=[WG] 看
 witchinggadgets_research_page.GEMCUT_STEP.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:160:0:80:80:1</IMG>The table cut is
-witchinggadgets_research_name.GEMCUT_ROSE=Rose Cut
-witchinggadgets_research_text.GEMCUT_ROSE=[WG] Sparkle
+witchinggadgets_research_name.GEMCUT_ROSE=玫瑰琢型
+witchinggadgets_research_text.GEMCUT_ROSE=[WG] 闪耀
 witchinggadgets_research_page.GEMCUT_ROSE.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:0:80:80:80:1</IMG>The table cut is
-witchinggadgets_research_name.GEMCUT_OVAL=Oval Cut
-witchinggadgets_research_text.GEMCUT_OVAL=[WG] Gleam
+witchinggadgets_research_name.GEMCUT_OVAL=椭圆琢型
+witchinggadgets_research_text.GEMCUT_OVAL=[WG] 闪光
 witchinggadgets_research_page.GEMCUT_OVAL.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:80:80:80:80:1</IMG>The oval cut is the perfection in gemcutting. It is used in the creation of baubles but can also be affixed to most armorpieces and tools, giving them socketed effects. See the following pages for a list.
 
 #-----------------------#
